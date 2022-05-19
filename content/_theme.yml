@@ -1,0 +1,17 @@
+title: "StatsAnytime"
+layout: docs
+url: "https://docs.statsanytime.com"
+debug: false
+socials:
+  twitter: "@statsanytime"
+  github: "statsanytime"
+aside:
+  level: 1
+header:
+  title: false
+  logo: true
+footer:
+  credits:
+    icon: IconDocus
+    text: Powered by Docus
+    href: https://docus.com

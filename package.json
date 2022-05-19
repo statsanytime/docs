@@ -1,0 +1,16 @@
+{
+  "name": "docs",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxi dev",
+    "build": "nuxi build",
+    "preview": "nuxi preview",
+    "generate": "nuxi generate"
+  },
+  "devDependencies": {
+    "@docus/docs-theme": "npm:@docus/docs-theme-edge@latest",
+    "@docus/github": "npm:@docus/github-edge@latest",
+    "nuxt": "^3.0.0-rc.3"
+  }
+}
